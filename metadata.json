@@ -1,0 +1,9 @@
+{
+  "name": "AEGIS - Autonomous Experiment Guidance & Interaction System",
+  "description": "Autonomous Experiment Guidance & Interaction System for Human Activity Recognition in on-board space biology and microgravity experiments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
